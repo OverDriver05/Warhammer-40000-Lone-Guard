@@ -15,10 +15,14 @@ A "Boomer Shooter"-inspired gameplay mod for DOOM, based on the grimdark univers
 *For even in the Grim Darkness of the Far Future, where there's only War, one tiny glimpse of hope emerges across the bloodied battlefied...*
 
 ## What to expect:
-**Tools of Destruction:** *Many of the iconic arsenal of *Warhammer 40000* is all here, ready to lock and load! From the iconic *Bolter* and the ever-handy *Chainsword*, to the destructive might of the *Plasma Gun* and the *Holy Flamer*, these tools of the glorious Imperium is always ready to help you purge the Xeno filth.*
+###**Tools of Destruction:** 
 
-**On the Run":** *In "Lone Guard", enemies are out for your blood constantly, coming from all sides, and doesn't stop! The steadily escalating difficulty always ensures you are always on the move to avoid being overwhelmed by the Xeno forces and die a horrible death. Make sure you always watch your back at all times...*
+*Many of the iconic arsenal of *Warhammer 40000* is all here, ready to lock and load! From the iconic *Bolter* and the ever-handy *Chainsword*, to the destructive might of the *Plasma Gun* and the *Holy Flamer*, these tools of the glorious Imperium is always ready to help you purge the Xeno filth.*
 
-**Modern :**
+###**On the Run":** 
 
-**Classic *Warhammer 40000* Weapons:**
+*In "Lone Guard", enemies are out for your blood constantly, coming from all sides, and doesn't stop! The steadily escalating difficulty always ensures you are always on the move to avoid being overwhelmed by the Xeno forces and die a horrible death. Make sure you always watch your back at all times...*
+
+### **Modern :**
+
+### **Classic *Warhammer 40000* Weapons:**
