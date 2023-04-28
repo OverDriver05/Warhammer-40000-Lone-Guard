@@ -29,4 +29,4 @@ A "Boomer Shooter"-inspired gameplay mod for DOOM, based on the grimdark univers
 
 ### **Mod Compatibility:**
 
-*Being a spin-off of Nekoposting's "Astartes", another gameplay mod based on the "Warhammer 40000" universe, this is best played with the Xeno Enemy Pack for a full-on "Warhammer 40000" experience. But if variety is your thing, you can pair "Lone Guard" with just about any DOOM add-on.
+*Being a spin-off of Nekoposting's "Astartes", another gameplay mod based on the "Warhammer 40000" universe, this is best played with the Xeno Enemy Pack for a full-on "Warhammer 40000" experience. But if variety is your thing, you can pair "Lone Guard" with just about any DOOM add-on just to spice up that "Warhammer 40000" experience.*
