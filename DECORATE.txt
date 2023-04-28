@@ -1,0 +1,19 @@
+///// WEAPONS /////
+#include "DECORATE/WEAPONS/Bolter.dec"
+#include "DECORATE/WEAPONS/Shotgun.dec"
+#include "DECORATE/WEAPONS/Meltagun.dec"
+#include "DECORATE/WEAPONS/Lasgun.dec"
+#include "DECORATE/WEAPONS/MissileLauncher.dec"
+#include "DECORATE/WEAPONS/PlasmaGun.dec""
+#include "DECORATE/WEAPONS/HolyFlamer.dec"
+#include "DECORATE/WEAPONS/Chainsword.dec"
+#include "DECORATE/WEAPONS/Grenades.dec"
+
+///// ITEMS /////
+#include "DECORATE/Players.dec"
+#include "DECORATE/Items.dec"
+#include "DECORATE/Spawners.dec"
+
+///// SFX /////
+#include "DECORATE/Tracers.dec"
+#include "DECORATE/Decorations.dec"

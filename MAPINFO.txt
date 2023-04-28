@@ -1,0 +1,66 @@
+Clearskills
+
+Skill Recruit
+{
+     SpawnFilter = Hard
+	 DamageFactor = 0.5
+	 Aggressiveness = 0.5
+	 EasyBossBrain
+     Name = "Recruit"
+	 TextColor = White
+	 Mustconfirm = "Take it easy, young one! You are still a fresh meat and a valuable asset to the glorious Imperium. Therefore, simply follow the orders and you'll be just fine on the battlefield!"
+}
+
+Skill Soldier
+{
+     SpawnFilter = Hard
+	 Aggressiveness = 0.5
+	 DamageFactor = 1.0
+	 ArmorFactor = 0.5
+	 MonsterHealth = 0.5
+	 FastMonsters
+     Name = "Soldier"
+	 TextColor = Grey
+	 Mustconfirm = "I'm quite surprised that you made it in one piece, as expected for a brave soldier of the almighty Imperium. Take what you've learned and put that to good use! Just don't die on us!"
+}
+
+Skill Imperial
+{
+     SpawnFilter = Hard
+	 Aggressiveness = 1.0
+	 DamageFactor = 1.5
+	 ArmorFactor = 0.5
+	 MonsterHealth = 1.4
+	 FastMonsters
+	 DefaultSkill
+     Name = "Imperial"
+	 TextColor = Green
+	 Mustconfirm = "Welcome to the Imperial Army, a faithful warrior of the Imperium of Man! With enough experience under your belt, now is the time to put your skills to  the ultimate test as you get to slaughter as many of the heretics, the mutants and the alien as you can. Fulfill your task for the glory of the Imperium!"
+}
+
+Skill Astartes
+{
+     SpawnFilter = Hard
+	 Aggressiveness = 1.0
+	 DamageFactor = 2.0
+	 ArmorFactor = 0.75
+	 MonsterHealth = 1.4
+	 FastMonsters
+     Name = "Astartes"
+	 TextColor = Blue
+	 Mustconfirm = "I'm quite surprised that you managed to last this long, let alone taking on entire legions of Chaos and Xenos on your own. That tenacity of yours was truly worthy of an Adeptus Astartes, if not more!"
+}
+
+Skill LoneGuard
+{
+     SpawnFilter = "Nightmare"
+	 Aggressiveness = 1.5
+	 DamageFactor = 2.5
+	 AmmoFactor = 2.0
+	 MonsterHealth = 2.0
+	 ArmorFactor = 0.5
+	 FastMonsters
+     Name = "Lone Guard"
+	 TextColor = Red
+	 Mustconfirm = "Your skills was something of a legend amongst the Imperial Guard, even to the eyes of those who witnessed your exploits against the heretic, the mutant and the alien. For that reason, as per the will of the almighty Emperor of Mankind, you are worthy of this task and as such, you are to be sent to the depth of Hell itself and slaughter as many of these filthy heretics in the name of the Golden Throne. Go forth, and let His will be done! FOR THE EMPEROR!!"
+}
