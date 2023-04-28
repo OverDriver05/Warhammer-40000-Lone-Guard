@@ -1,0 +1,15 @@
+Actor ImperialGuardWeapon : Weapon
+{
+	Weapon.bobstyle "inversesmooth"
+	Weapon.bobspeed 3.5
+	Weapon.bobrangex 0.25
+	Weapon.bobrangey 0.25
+	Weapon.upsound "WEPUP"
+	+WEAPON.NOAUTOFIRE
+	+FORCEXYBILLBOARD
+	+SHOOTABLE
+	+NOBLOOD
+	+NOAUTOAIM
+	Radius 5
+	Decal "BulletChip"
+}

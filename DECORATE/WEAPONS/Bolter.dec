@@ -1,0 +1,149 @@
+ACTOR Bolter : ImperialGuardWeapon
+{
+    Weapon.Slotnumber 2
+	Weapon.AmmoUse1 1
+	Weapon.AmmoUse2 1
+	Weapon.AmmoGive 25
+	Weapon.AmmoType1 " "
+	Weapon.AmmoType2 " "
+	Weapon.upsound " "
+	scale 0.5
+	+WEAPON.ALT_AMMO_OPTIONAL
+	+WEAPON.AMMO_OPTIONAL
+	+NOAUTOAIM
+	+WEAPON.NOALERT
+	Inventory.icon " "
+	Weapon.selectionorder 1100
+	Inventory.Pickupmessage "You picked up an Imperial Guard Boltgun."
+	Tag "Imperial Guard Boltgun"
+	States
+	{
+	 Ready:
+		
+		Loop
+	 Empty:
+        
+		loop
+	 Select:
+	    
+	    loop
+	 Deselect:
+	    
+	    loop
+	 Fire:
+	    
+	    Goto ready
+	 AltFire:
+	    
+	    Stop
+	 Reload:
+	 
+	    Stop
+	 ReloadWork:
+	    
+	    Stop
+	 Spawn:
+	    
+	    Stop
+	}
+}
+
+ACTOR StormBolter : ImperialGuardWeapon
+{
+    Weapon.Slotnumber 2
+	Weapon.AmmoUse1 1
+	Weapon.AmmoUse2 1
+	Weapon.AmmoGive 25
+	Weapon.AmmoType1 " "
+	Weapon.AmmoType2 " "
+	Weapon.upsound " "
+	scale 0.5
+	+WEAPON.ALT_AMMO_OPTIONAL
+	+WEAPON.AMMO_OPTIONAL
+	+NOAUTOAIM
+	+WEAPON.NOALERT
+	Inventory.icon " "
+	Weapon.selectionorder 1100
+	Inventory.Pickupmessage "You picked up an Astartes-Grade Storm Boltgun."
+	Tag "Storm Boltgun"
+	States
+	{
+	 Ready:
+		
+		Loop
+	 Empty:
+        
+		loop
+	 Select:
+	    
+	    loop
+	 Deselect:
+	    
+	    loop
+	 Fire:
+	    
+	    Goto ready
+	 AltFire:
+	    
+	    Stop
+	 Reload:
+	 
+	    Stop
+	 ReloadWork:
+	    
+	    Stop
+	 Spawn:
+	    
+	    Stop
+	}
+}
+
+ACTOR HeavyBolter : ImperialGuardWeapon
+{
+    Weapon.Slotnumber 2
+	Weapon.AmmoUse1 1
+	Weapon.AmmoUse2 1
+	Weapon.AmmoGive 25
+	Weapon.AmmoType1 " "
+	Weapon.AmmoType2 " "
+	Weapon.upsound " "
+	scale 0.5
+	+WEAPON.ALT_AMMO_OPTIONAL
+	+WEAPON.AMMO_OPTIONAL
+	+NOAUTOAIM
+	+WEAPON.NOALERT
+	Inventory.icon " "
+	Weapon.selectionorder 1100
+	Inventory.Pickupmessage "ou picked up an Astartes-Grade Heavy Boltgun."
+	Tag "Heavy Boltgun"
+	States
+	{
+	 Ready:
+		
+		Loop
+	 Empty:
+        
+		loop
+	 Select:
+	    
+	    loop
+	 Deselect:
+	    
+	    loop
+	 Fire:
+	    
+	    Goto ready
+	 AltFire:
+	    
+	    Stop
+	 Reload:
+	 
+	    Stop
+	 ReloadWork:
+	    
+	    Stop
+	 Spawn:
+	    
+	    Stop
+	}
+}
