@@ -25,7 +25,7 @@ A "Boomer Shooter"-inspired gameplay mod for DOOM, based on the grimdark univers
 
 ### **Modern "Boomer Shooter" Sensibility:**
 
-*The gunplay and feel of "Lone Guard" was inspired by the insurgence of many "Boomer Shooter" games like "DOOM Eternal", "Ultrakill", "Dusk" and so many others. No one weapon is left out in the fight, as it is encouraged to switch between firearms and make use of your "Combat Dodge" to even the playing field, or die trying!*
+*The gunplay and feel of "Lone Guard" was inspired by the insurgence of many "Boomer Shooter" games like "DOOM Eternal", "Ultrakill", "Dusk" and so many others. No one weapon is left out in the fight, as it is encouraged to switch between firearms and make use of your "Combat Dodge" to even the playing field, or die trying! No aim-down sights, no covers to seek refuge in, no regenerating health, just you and your guns against an entire armada of Xenos! No pressure!*
 
 ### **Mod Compatibility:**
 
