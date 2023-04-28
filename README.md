@@ -19,10 +19,13 @@ A "Boomer Shooter"-inspired gameplay mod for DOOM, based on the grimdark univers
 
 *Many of the iconic arsenal of *Warhammer 40000* is all here, ready to lock and load! From the iconic *Bolter* and the ever-handy *Chainsword*, to the destructive might of the *Plasma Gun* and the *Holy Flamer*, these tools of the glorious Imperium is always ready to help you purge the Xeno filth.*
 
-### **On the Run":** 
+### **On the Run:** 
 
 *In "Lone Guard", enemies are out for your blood constantly, coming from all sides, and doesn't stop! The steadily escalating difficulty always ensures you are always on the move to avoid being overwhelmed by the Xeno forces and die a horrible death. Make sure you always watch your back at all times...*
 
-### **Modern :**
+### **Modern "Boomer Shooter" Sensibility:**
 
-### **Classic *Warhammer 40000* Weapons:**
+*The gunplay and feel of "Lone Guard" was inspired by the insurgence of many "Boomer Shooter" games like "DOOM Eternal", "Ultrakill", "Dusk" and so many others. No one weapon is left out in the fight, as it is encouraged to switch between firearms to even the playing field, or die trying!*
+
+### **Mod Compatibility:**
+
